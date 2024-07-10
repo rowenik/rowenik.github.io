@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+main{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255)
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(209, 147, 233);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden
+
+}
+.navbar a{
+    color:rgb(141, 68, 170);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center
+}
+.navbar :hover{
+    background-color: rgb(104, 53, 119);
+}
+.navbar{
+    float:left
+}
+ul{
+    font-family:Verdana, Helvetica, sans-serif;
+    font-style: italic;
+}
+h3{
+    color: mediumaquamarine;
+}
+p{
+    color: mediumaquamarine
+}
